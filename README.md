@@ -1,5 +1,6 @@
 # Partition - split iterables based on predicates
 
+[![Pub](https://img.shields.io/badge/pub-1.0.0-informational)](https://pub.dev/packages/partition)
 [![Style: Pedantic](https://img.shields.io/badge/style-pedantic-blue)](https://pub.dev/packages/pedantic)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexMeuer%2Fdart-partition.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexMeuer%2Fdart-partition?ref=badge_shield)
 
