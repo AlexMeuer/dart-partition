@@ -1,9 +1,10 @@
 name: partition
 description: A library for partitioning iterables based on predicates.
 version: 1.0.0
+repository: https://github.com/AlexMeuer/dart-partition
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   collection: ^1.15.0
