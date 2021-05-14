@@ -1,6 +1,10 @@
 name: partition
-description: A library for partitioning iterables based on predicates.
-version: 1.0.0
+description: >
+  A library for partitioning iterables based on predicates.
+  By default, partitioning happens lazily over the source iterable
+  but eager partitioning can be used by setting the lazy parameter or
+  using the partitionNow extension method.
+version: 1.0.1
 repository: https://github.com/AlexMeuer/dart-partition
 
 environment:
